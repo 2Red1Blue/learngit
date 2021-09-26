@@ -4,16 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe64f2b7c5a40db7",
+        "id": "7fe29e2277a75f13",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "操作系统/操作系统.md",
+            "file": "操作系统/虚拟存储器.md",
             "mode": "source"
           }
-        },
-        "group": "585e5a22ef1b547e"
+        }
       },
       {
         "id": "cdc524a9c38c4d37",
@@ -21,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "操作系统/操作系统.md",
+            "file": "操作系统/虚拟存储器.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -48,8 +47,7 @@
               "close": false
             }
           }
-        },
-        "group": "585e5a22ef1b547e"
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/操作系统.md",
+                "file": "操作系统/虚拟存储器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/操作系统.md",
+                "file": "操作系统/虚拟存储器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/操作系统.md"
+                "file": "操作系统/虚拟存储器.md"
               }
             }
           }
@@ -164,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe64f2b7c5a40db7",
+  "active": "7fe29e2277a75f13",
   "lastOpenFiles": [
-    "操作系统/操作系统.md",
+    "操作系统/虚拟存储器.md",
+    "计组/虚存.md",
+    "计组/虚拟存储器.md",
     "操作系统/未命名.md",
+    "操作系统/操作系统.md",
     "计组/未命名.md",
     "计组/计算机组成原理.md",
     "计组/IO和中断.md",
     "计组/计算机系统概论.md",
-    "I/O和中断.md",
-    "计组/辅助存储器.md",
-    "计组/虚拟存储器.md",
-    "计组/cache缓存.md"
+    "I/O和中断.md"
   ]
 }
