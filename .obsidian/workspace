@@ -7,9 +7,33 @@
         "id": "fe64f2b7c5a40db7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "计算机网络/应用层.md",
+            "mode": "source"
+          }
         }
+      },
+      {
+        "id": "b0df8bdb257f4c11",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "计算机网络/应用层.md",
+            "mode": "source"
+          }
+        },
+        "group": "85f027109dda94c1"
+      },
+      {
+        "id": "72e6221a1175e660",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "85f027109dda94c1"
       }
     ],
     "direction": "vertical"
@@ -73,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机网络/应用层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机网络/应用层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机网络/应用层.md"
+              }
             }
           }
         ]
@@ -120,6 +148,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe64f2b7c5a40db7",
-  "lastOpenFiles": []
+  "active": "72e6221a1175e660",
+  "lastOpenFiles": [
+    "计算机网络/应用层.md"
+  ]
 }
