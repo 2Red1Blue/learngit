@@ -7,30 +7,60 @@
         "id": "fe64f2b7c5a40db7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "计组/计算机组成原理.md",
+            "mode": "source"
+          }
+        },
+        "group": "585e5a22ef1b547e"
       },
       {
-        "id": "b0df8bdb257f4c11",
+        "id": "cdc524a9c38c4d37",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "计组/计算机组成原理.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "585e5a22ef1b547e"
+      },
+      {
+        "id": "8dff524ffd6b4da0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机网络/应用层.md",
+            "file": "计组/计算机系统概论.md",
             "mode": "source"
           }
-        },
-        "group": "85f027109dda94c1"
-      },
-      {
-        "id": "72e6221a1175e660",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "85f027109dda94c1"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计组/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计组/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计组/计算机组成原理.md"
+              }
             }
           }
         ]
@@ -141,8 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe64f2b7c5a40db7",
+  "active": "cdc524a9c38c4d37",
   "lastOpenFiles": [
-    "计算机网络/应用层.md"
+    "计组/计算机组成原理.md",
+    "I/O和中断.md",
+    "计组/计算机系统概论.md",
+    "计组/辅助存储器.md",
+    "计组/虚拟存储器.md",
+    "计组/cache缓存.md",
+    "计组/流水线.md",
+    "计组/中央处理器.md",
+    "计组/指令系统.md",
+    "计组/数据校验.md"
   ]
 }

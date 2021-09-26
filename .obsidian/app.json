@@ -1,1 +1,6 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "foldIndent": true
+}
