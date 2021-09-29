@@ -9,47 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计组/磁盘存储器.md",
+            "file": "操作系统/处理机调度和死锁.md",
             "mode": "source"
           }
-        },
-        "group": "0008d0cbe21ec598"
-      },
-      {
-        "id": "54c1a888319518b4",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "计组/磁盘存储器.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.4019828977761009,
-              "close": false
-            }
-          }
-        },
-        "group": "0008d0cbe21ec598"
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计组/磁盘存储器.md",
+                "file": "操作系统/处理机调度和死锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计组/磁盘存储器.md",
+                "file": "操作系统/处理机调度和死锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计组/磁盘存储器.md"
+                "file": "操作系统/处理机调度和死锁.md"
               }
             }
           }
@@ -164,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54c1a888319518b4",
+  "active": "6a7c493098cc5d63",
   "lastOpenFiles": [
+    "操作系统/处理机调度和死锁.md",
+    "操作系统/操作系统.md",
+    "计组/中断.md",
+    "计组/IO和中断.md",
     "计组/磁盘存储器.md",
     "操作系统/IO输入输出.md",
     "计组/辅助存储器.md",
     "计组/计算机组成原理.md",
-    "计组/IO和中断.md",
     "操作系统/未命名.md",
-    "操作系统/虚拟存储器.md",
-    "计组/虚存.md",
-    "计组/虚拟存储器.md",
-    "操作系统/操作系统.md"
+    "操作系统/虚拟存储器.md"
   ]
 }
